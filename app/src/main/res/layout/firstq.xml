@@ -1,0 +1,202 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		firstq
+	 *	@date 		Wednesday 09th of October 2024 10:45:24 AM
+	 *	@title 		Page 2
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/firstq" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+			<View   android:id="@+id/_bg__firstq"
+				android:background="@drawable/_bg__homepage_ek2_shape"
+				 android:layout_marginStart="0dp"
+				android:layout_marginTop="0dp"
+				android:layout_width="430dp"
+				android:layout_height="932dp" />
+
+			<View   android:id="@+id/canvas"
+				android:background="@drawable/canvas_shape"
+				 android:layout_marginStart="9dp"
+				android:layout_marginTop="115dp"
+				android:layout_width="411dp"
+				android:layout_height="337dp" />
+
+			<ImageView android:id="@+id/multil"
+				android:src="@drawable/multil"
+				android:contentDescription="multil"
+				 android:layout_marginStart="370dp"
+				android:layout_marginTop="41dp"
+				android:layout_width="40dp"
+				android:layout_height="40dp" />
+
+			<TextView android:id="@+id/question"
+
+				android:textStyle="bold"
+				android:textSize="15sp"
+				android:textColor="#6290C3"
+				android:layout_marginLeft="21dp"
+				android:layout_marginTop="148dp"
+				android:layout_width="391.5dp"
+				android:layout_height="33.5dp"
+				android:text="Which of the following is a linear data structure?"
+				 />
+
+			<TextView android:id="@+id/question_1_of_10"
+
+				android:textSize="15sp"
+				android:textColor="#6290C3"
+				android:layout_marginLeft="21dp"
+				android:layout_marginTop="124dp"
+				android:layout_width="133.5dp"
+				android:layout_height="33.5dp"
+				android:text="Question 1 of 10"
+				 />
+
+			<View   android:id="@+id/backopta"
+				android:background="@drawable/backopta_shape"
+				 android:layout_marginStart="21dp"
+				android:layout_marginTop="206dp"
+				android:layout_width="390dp"
+				android:layout_height="40dp" />
+
+			<View   android:id="@+id/backoptb"
+				android:background="@drawable/backoptb_shape"
+				 android:layout_marginStart="21dp"
+				android:layout_marginTop="270dp"
+				android:layout_width="390dp"
+				android:layout_height="40dp" />
+
+			<View   android:id="@+id/backoptc"
+				android:background="@drawable/backoptc_shape"
+				 android:layout_marginStart="21dp"
+				android:layout_marginTop="330dp"
+				android:layout_width="390dp"
+				android:layout_height="40dp" />
+
+			<View   android:id="@+id/backoptd"
+				android:background="@drawable/backoptd_shape"
+				 android:layout_marginStart="21dp"
+				android:layout_marginTop="390dp"
+				android:layout_width="390dp"
+				android:layout_height="40dp" />
+
+			<TextView android:id="@+id/tree"
+
+				android:layout_gravity="center_horizontal|center"
+				android:gravity="center"
+				android:textSize="15sp"
+				android:textColor="@color/search_field_color"
+				android:layout_marginLeft="197dp"
+				android:layout_marginTop="210dp"
+				android:layout_width="46dp"
+				android:layout_height="33.5dp"
+				android:text="Tree"
+				 />
+
+			<TextView android:id="@+id/graph"
+
+				android:layout_gravity="center_horizontal|center"
+				android:gravity="center"
+				android:textSize="15sp"
+				android:textColor="@color/search_field_color"
+				android:layout_marginLeft="188dp"
+				android:layout_marginTop="273dp"
+				android:layout_width="61dp"
+				android:layout_height="33.5dp"
+				android:text="Graph"
+				 />
+
+			<TextView android:id="@+id/stack"
+
+				android:layout_gravity="center_horizontal|center"
+				android:gravity="center"
+				android:textSize="15sp"
+				android:textColor="@color/search_field_color"
+				android:layout_marginLeft="192dp"
+				android:layout_marginTop="335dp"
+				android:layout_width="55dp"
+				android:layout_height="33.5dp"
+				android:text="Stack"
+				 />
+
+			<TextView android:id="@+id/hash_table"
+
+				android:layout_gravity="center_horizontal|center"
+				android:gravity="center"
+				android:textSize="15sp"
+				android:textColor="@color/search_field_color"
+				android:layout_marginLeft="170dp"
+				android:layout_marginTop="390dp"
+				android:layout_width="97dp"
+				android:layout_height="33.5dp"
+				android:text="Hash Table"
+				 />
+
+			<ImageView android:id="@+id/back"
+				android:src="@drawable/back"
+				android:contentDescription="back"
+				 android:layout_marginStart="30dp"
+				android:layout_marginTop="41dp"
+				android:layout_width="42dp"
+				android:layout_height="40dp" />
+
+			<View   android:id="@+id/backskip"
+				android:background="@drawable/backskip_shape"
+				 android:layout_marginStart="15dp"
+				android:layout_marginTop="820dp"
+				android:layout_width="193dp"
+				android:layout_height="64dp" />
+
+			<View   android:id="@+id/backnext"
+				android:background="@drawable/backnext_shape"
+				 android:layout_marginStart="222dp"
+				android:layout_marginTop="819dp"
+				android:layout_width="193dp"
+				android:layout_height="64dp" />
+
+			<TextView android:id="@+id/next"
+
+				android:layout_gravity="center_horizontal|center"
+				android:gravity="center"
+				android:textSize="15sp"
+				android:textColor="@color/search_field_color"
+				android:layout_marginLeft="299dp"
+				android:layout_marginTop="839dp"
+				android:layout_width="46dp"
+				android:layout_height="33.5dp"
+				android:text="Back"
+				 />
+
+			<TextView android:id="@+id/skip"
+
+				android:layout_gravity="center_horizontal|center"
+				android:gravity="center"
+				android:textSize="15sp"
+				android:textColor="#6290C3"
+				android:layout_marginLeft="93dp"
+				android:layout_marginTop="839dp"
+				android:layout_width="44dp"
+				android:layout_height="33.5dp"
+				android:text="Skip"
+				 />
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- homepage strings -->
+
+	<string name="app_name">Page 2</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="hello_string">Hello</string>
+	<string name="yasir_string">Yasir</string>
+	<string name="points__1500_string">points: 1500</string>
+	<string name="greetings_string">What Subject doyou want to exercisetoday?</string>
+	<string name="search_here_string">Search here</string>
+	<string name="home_string">Home</string>
+	<string name="tcourseone_string">Algorithm and Data Structure</string>
+	<string name="tcoursetwo_string">UI/UX</string>
+	<string name="mobile_programming_string">Mobile Programming</string>
+	<string name="web_programming_string">Web Programming</string>
+</resources>

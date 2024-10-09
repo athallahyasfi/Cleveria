@@ -1,0 +1,156 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		completet
+	 *	@date 		Wednesday 09th of October 2024 11:59:43 AM
+	 *	@title 		Page 2
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/completet" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+			<View   android:id="@+id/_bg__completet"
+				android:background="@drawable/_bg__homepage_ek2_shape"
+				 android:layout_marginStart="0dp"
+				android:layout_marginTop="0dp"
+				android:layout_width="430dp"
+				android:layout_height="932dp" />
+
+			<ImageView android:id="@+id/multil"
+				android:src="@drawable/multil"
+				android:contentDescription="multil"
+				 android:layout_marginStart="370dp"
+				android:layout_marginTop="41dp"
+				android:layout_width="40dp"
+				android:layout_height="40dp" />
+
+			<View   android:id="@+id/canvass"
+				android:background="@drawable/canvass_shape"
+				 android:layout_marginStart="18dp"
+				android:layout_marginTop="142dp"
+				android:layout_width="394dp"
+				android:layout_height="467dp" />
+
+			<TextView android:id="@+id/hash_search"
+
+				android:layout_gravity="center_horizontal|center"
+				android:gravity="center"
+				android:textSize="15sp"
+				android:textColor="#6290C3"
+				android:layout_marginLeft="167dp"
+				android:layout_marginTop="387dp"
+				android:layout_width="108dp"
+				android:layout_height="33.5dp"
+				android:text=""
+				 />
+
+			<TextView android:id="@+id/congrats"
+
+				android:textStyle="bold"
+				android:textSize="25sp"
+				android:textColor="#6290C3"
+				android:layout_marginLeft="151dp"
+				android:layout_marginTop="380dp"
+				android:layout_width="158.5dp"
+				android:layout_height="55.5dp"
+				android:text="Congrats!"
+				 />
+
+			<TextView android:id="@+id/score"
+
+				android:textStyle="bold"
+				android:textSize="25sp"
+				android:textColor="#2DC06A"
+				android:layout_marginLeft="144dp"
+				android:layout_marginTop="428dp"
+				android:layout_width="173.5dp"
+				android:layout_height="55.5dp"
+				android:text="Score: 90%"
+				 />
+
+
+			<RelativeLayout android:id="@+id/mark"
+				android:layout_marginTop="249dp"
+				android:layout_marginStart="167dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<ImageView android:id="@+id/mark1"
+					android:src="@drawable/mark1"
+					android:contentDescription="mark1"
+					 android:layout_marginStart="33dp"
+					android:layout_marginTop="38dp"
+					android:layout_width="35dp"
+					android:layout_height="25dp" />
+
+				<ImageView android:id="@+id/mark2"
+					android:src="@drawable/mark2"
+					android:contentDescription="mark2"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="100dp"
+					android:layout_height="100dp" />
+
+			</RelativeLayout>
+
+			<TextView
+				android:id="@+id/finish"
+
+				android:layout_width="181dp"
+				android:layout_height="33dp"
+				android:layout_gravity="center_horizontal|center"
+				android:layout_marginLeft="129dp"
+				android:layout_marginTop="476dp"
+				android:gravity="center"
+				android:text="Quiz Completed"
+				android:textColor="#000000"
+				android:textSize="20sp"
+				android:textStyle="bold" />
+
+			<View   android:id="@+id/backnest"
+				android:background="@drawable/backnext_shape"
+				 android:layout_marginStart="120dp"
+				android:layout_marginTop="820dp"
+				android:layout_width="193dp"
+				android:layout_height="64dp" />
+
+			<TextView android:id="@+id/review"
+
+				android:layout_gravity="center_horizontal|center"
+				android:gravity="center"
+				android:textSize="15sp"
+				android:textColor="#FFFFFF"
+				android:layout_marginLeft="187dp"
+				android:layout_marginTop="840dp"
+				android:layout_width="66dp"
+				android:layout_height="33.5dp"
+				android:text="Review"
+				 />
+
+			<ImageView android:id="@+id/back"
+				android:src="@drawable/back"
+				android:contentDescription="backc"
+				 android:layout_marginStart="30dp"
+				android:layout_marginTop="41dp"
+				android:layout_width="42dp"
+				android:layout_height="40dp" />
+
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>
